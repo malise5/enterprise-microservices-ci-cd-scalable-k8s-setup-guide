@@ -1,4 +1,4 @@
-Certainly! Below is a detailed **README** guide for your students, which covers everything from setting up a Kubernetes cluster from scratch to deploying a simple application (like a web app) on it. This guide assumes that students have basic knowledge of servers and Linux but may be new to Kubernetes.
+Below is a detailed **README** guide for your students, which covers everything from setting up a Kubernetes cluster from scratch to deploying a simple application (like a web app) on it. This guide assumes that students have basic knowledge of servers and Linux but may be new to Kubernetes.
 
 ---
 
