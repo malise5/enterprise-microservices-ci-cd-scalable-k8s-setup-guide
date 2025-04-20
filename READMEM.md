@@ -6,10 +6,6 @@ Sure! Below is a detailed `README.md` file split into **two sections** as reques
 - **Part 2**: Cloud-native principles and how they apply to the same microservices architecture.
 
 ---
-
-### 📘 `README.md`
-
-```markdown
 # 🏗️ Enterprise Microservices Deployment Guide (On-Premise + Cloud-Native)
 
 This guide provides a step-by-step walkthrough for deploying a complex microservices-based application (21 modules) using enterprise-grade DevOps tooling. The deployment is broken into two environments:
