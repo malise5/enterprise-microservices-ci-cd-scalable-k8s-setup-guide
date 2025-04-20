@@ -256,5 +256,5 @@ Use Grafana stack for monitoring:
 - Automate CI/CD with GitLab
 - Follow security, observability, and autoscaling best practices
 
-> 🎁 Bonus: This guide is beginner-friendly — perfect to add to your README.md!
+> 🎁 Bonus: This guide is beginner-friendly
 
